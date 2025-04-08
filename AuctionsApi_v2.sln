@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionsApi_v2", "AuctionsApi_v2\AuctionsApi_v2.csproj", "{E5FC7CA1-CB64-45AC-8A79-3F106418174B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionsApi_v2.Domain", "AuctionsApi_v2.Domain\AuctionsApi_v2.Domain.csproj", "{43358AC2-E75D-4854-AC2C-736CDCE27E0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionsApi_v2.Core", "AuctionsApi_v2.Core\AuctionsApi_v2.Core.csproj", "{A3E36921-FC45-4506-BA37-D814DD6A74BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionsApi_v2.Data", "AuctionsApi_v2.Data\AuctionsApi_v2.Data.csproj", "{9F1D2F54-658E-41CC-9F68-4F4799BCC497}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionsApi_v2.Test", "AuctionsApi_v2.Test\AuctionsApi_v2.Test.csproj", "{1714B60F-5C74-4AF5-B810-1CB421CCEA07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5FC7CA1-CB64-45AC-8A79-3F106418174B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5FC7CA1-CB64-45AC-8A79-3F106418174B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5FC7CA1-CB64-45AC-8A79-3F106418174B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5FC7CA1-CB64-45AC-8A79-3F106418174B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43358AC2-E75D-4854-AC2C-736CDCE27E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43358AC2-E75D-4854-AC2C-736CDCE27E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43358AC2-E75D-4854-AC2C-736CDCE27E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43358AC2-E75D-4854-AC2C-736CDCE27E0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3E36921-FC45-4506-BA37-D814DD6A74BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E36921-FC45-4506-BA37-D814DD6A74BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E36921-FC45-4506-BA37-D814DD6A74BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E36921-FC45-4506-BA37-D814DD6A74BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F1D2F54-658E-41CC-9F68-4F4799BCC497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F1D2F54-658E-41CC-9F68-4F4799BCC497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F1D2F54-658E-41CC-9F68-4F4799BCC497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F1D2F54-658E-41CC-9F68-4F4799BCC497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1714B60F-5C74-4AF5-B810-1CB421CCEA07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1714B60F-5C74-4AF5-B810-1CB421CCEA07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1714B60F-5C74-4AF5-B810-1CB421CCEA07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1714B60F-5C74-4AF5-B810-1CB421CCEA07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D89BD6D6-CA45-44A0-8B64-A2AF3FDF878B}
+	EndGlobalSection
+EndGlobal

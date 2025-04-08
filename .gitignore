@@ -1,0 +1,20 @@
+# Ignore Visual Studio files
+.vs/
+.vscode/
+.idea/
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Ignore configuration files (optional but recommended)
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+launchSettings.json
